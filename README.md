@@ -6,4 +6,6 @@ Script zanechá v adresáři a podadresářích soubor FILES.LST, ve kterém bud
 
 -------------------
 
+Script leaves the file FILES.LST in folder and all subfolders. Contains the list of filenames in that folder. Empty folders will stay empty.
+
 _Jakub Truhlář ©2014_
